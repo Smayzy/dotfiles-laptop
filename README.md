@@ -1,6 +1,6 @@
 # dotfiles-laptop
 # packages
-yay
+yay\N
 hyprland
 hyprpaper
 kitty
