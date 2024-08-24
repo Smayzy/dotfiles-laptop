@@ -8,5 +8,4 @@ wofi
 yazy
 thunar
 waybar
-auto-cpufreq
 vim
