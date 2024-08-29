@@ -8,4 +8,5 @@ wofi
 yazy
 thunar
 waybar
-vim
+hyprlock
+wlogout
