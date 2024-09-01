@@ -3,6 +3,8 @@
 arch
 # WM
 hyprland
+# SHELL
+bash
 # PACKAGES
 yay
 hyprland
