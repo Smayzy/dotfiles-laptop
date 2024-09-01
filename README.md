@@ -1,4 +1,8 @@
 # dotfiles-laptop
+# OS
+arch
+# WM
+hyprland
 # packages
 yay
 hyprland
