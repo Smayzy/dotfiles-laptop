@@ -1,9 +1,9 @@
 # dotfiles-laptop
-# OS
+# DISTRO
 arch
 # WM
 hyprland
-# packages
+# PACKAGES
 yay
 hyprland
 hyprpaper
