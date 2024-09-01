@@ -10,3 +10,4 @@ thunar
 waybar
 hyprlock
 wlogout
+fastfetch
