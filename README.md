@@ -14,7 +14,7 @@ hyprpaper
 # TERMINAL
 kitty
 # GREETER
-sddm
+sddm (sugar-candy)
 # FETCH
 fastfetch
 # LOGOUT
