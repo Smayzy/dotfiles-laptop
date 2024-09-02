@@ -6,7 +6,7 @@ hyprland
 # BAR
 waybar
 # SHELL
-bash
+bash (starship shell)
 # LAUNCHER
 wofi
 # WALLPAPER
