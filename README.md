@@ -3,17 +3,23 @@
 arch
 # WM
 hyprland
+# BAR
+waybar
 # SHELL
 bash
-# PACKAGES
-yay
-hyprland
-hyprpaper
-kitty
+# LAUNCHER
 wofi
-yazy
-thunar
-waybar
-hyprlock
-wlogout
+# WALLPAPER
+hyprpaper
+# TERMINAL
+kitty
+# GREETER
+sddm
+# FETCH
 fastfetch
+# LOGOUT
+wlogout
+# LOCK
+hyprlock
+# AUR HELPER
+yay
