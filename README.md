@@ -21,5 +21,7 @@ fastfetch
 wlogout
 # LOCK
 hyprlock
+# FILE MANAGER
+yazi
 # AUR HELPER
 yay
